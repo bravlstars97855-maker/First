@@ -1,6 +1,0 @@
-git init
-echo "__pycache__/" >> .gitignore
-echo "*.pyc" >> .gitignore
-echo "favorites.json" >> .gitignore
-git add .
-git commit -m "Initial commit: GitHub User Finder"
